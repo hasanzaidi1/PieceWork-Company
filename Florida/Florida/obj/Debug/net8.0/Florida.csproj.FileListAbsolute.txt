@@ -1,0 +1,11 @@
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\bin\Debug\net8.0\Florida.deps.json
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\bin\Debug\net8.0\Florida.dll
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\bin\Debug\net8.0\Florida.pdb
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\Florida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\Florida.AssemblyInfoInputs.cache
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\Florida.AssemblyInfo.cs
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\Florida.csproj.CoreCompileInputs.cache
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\Florida.dll
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\refint\Florida.dll
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\Florida.pdb
+C:\Users\Katie\source\repos\Proj3\Florida\Florida\obj\Debug\net8.0\ref\Florida.dll

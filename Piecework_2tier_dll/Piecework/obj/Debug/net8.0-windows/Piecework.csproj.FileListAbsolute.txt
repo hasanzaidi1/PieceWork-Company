@@ -1,0 +1,17 @@
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\bin\Debug\net8.0-windows\Piecework.exe
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\bin\Debug\net8.0-windows\Piecework.deps.json
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\bin\Debug\net8.0-windows\Piecework.runtimeconfig.json
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\bin\Debug\net8.0-windows\Piecework.dll
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\bin\Debug\net8.0-windows\Piecework.pdb
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.PayForm.resources
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.SummaryForm.resources
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.csproj.GenerateResource.cache
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.AssemblyInfoInputs.cache
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.AssemblyInfo.cs
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.csproj.CoreCompileInputs.cache
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.dll
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\refint\Piecework.dll
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.pdb
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\Piecework.genruntimeconfig.cache
+C:\Users\Katie\source\repos\Proj3\Piecework\Piecework\obj\Debug\net8.0-windows\ref\Piecework.dll
